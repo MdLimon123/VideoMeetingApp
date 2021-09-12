@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37865082080",
+    "project_id": "video-meeting-51b0b",
+    "storage_bucket": "video-meeting-51b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37865082080:android:0dbbb200e0f2967a069485",
+        "android_client_info": {
+          "package_name": "com.example.videomeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37865082080-i2n8vk7mqco1rkjp3n1i9c66nj5518nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVbPwjg29Zt4XrtAONXAa5ZsoZHQsCJwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37865082080-i2n8vk7mqco1rkjp3n1i9c66nj5518nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
